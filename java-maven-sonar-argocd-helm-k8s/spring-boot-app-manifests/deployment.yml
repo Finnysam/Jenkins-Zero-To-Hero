@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: finnysamuel5/finnysamuel5:replaceImageTag
+        image: finnysamuel5/finnysamuel5:4
         ports:
         - containerPort: 8080
